@@ -15,13 +15,13 @@
 		F10B40651EC44B0500C09236 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F10B40631EC44B0500C09236 /* LaunchScreen.storyboard */; };
 		F10B40701EC44B0500C09236 /* PSPopListViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F10B406F1EC44B0500C09236 /* PSPopListViewTests.m */; };
 		F10B407B1EC44B0500C09236 /* PSPopListViewUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = F10B407A1EC44B0500C09236 /* PSPopListViewUITests.m */; };
-		F10B40B01EC4681A00C09236 /* PSPopListView.m in Sources */ = {isa = PBXBuildFile; fileRef = F10B40A11EC4681A00C09236 /* PSPopListView.m */; };
-		F10B40B11EC4681A00C09236 /* LewPopupBackgroundView.m in Sources */ = {isa = PBXBuildFile; fileRef = F10B40A41EC4681A00C09236 /* LewPopupBackgroundView.m */; };
-		F10B40B21EC4681A00C09236 /* LewPopupViewAnimationDrop.m in Sources */ = {isa = PBXBuildFile; fileRef = F10B40A61EC4681A00C09236 /* LewPopupViewAnimationDrop.m */; };
-		F10B40B31EC4681A00C09236 /* LewPopupViewAnimationFade.m in Sources */ = {isa = PBXBuildFile; fileRef = F10B40A81EC4681A00C09236 /* LewPopupViewAnimationFade.m */; };
-		F10B40B41EC4681A00C09236 /* LewPopupViewAnimationSlide.m in Sources */ = {isa = PBXBuildFile; fileRef = F10B40AA1EC4681A00C09236 /* LewPopupViewAnimationSlide.m */; };
-		F10B40B51EC4681A00C09236 /* LewPopupViewAnimationSpring.m in Sources */ = {isa = PBXBuildFile; fileRef = F10B40AC1EC4681A00C09236 /* LewPopupViewAnimationSpring.m */; };
-		F10B40B61EC4681A00C09236 /* UIViewController+LewPopupViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F10B40AF1EC4681A00C09236 /* UIViewController+LewPopupViewController.m */; };
+		F1B2655D1EC7D12A004BB459 /* LewPopupBackgroundView.m in Sources */ = {isa = PBXBuildFile; fileRef = F1B2654F1EC7D12A004BB459 /* LewPopupBackgroundView.m */; };
+		F1B2655E1EC7D12A004BB459 /* LewPopupViewAnimationDrop.m in Sources */ = {isa = PBXBuildFile; fileRef = F1B265511EC7D12A004BB459 /* LewPopupViewAnimationDrop.m */; };
+		F1B2655F1EC7D12A004BB459 /* LewPopupViewAnimationFade.m in Sources */ = {isa = PBXBuildFile; fileRef = F1B265531EC7D12A004BB459 /* LewPopupViewAnimationFade.m */; };
+		F1B265601EC7D12A004BB459 /* LewPopupViewAnimationSlide.m in Sources */ = {isa = PBXBuildFile; fileRef = F1B265551EC7D12A004BB459 /* LewPopupViewAnimationSlide.m */; };
+		F1B265611EC7D12A004BB459 /* LewPopupViewAnimationSpring.m in Sources */ = {isa = PBXBuildFile; fileRef = F1B265571EC7D12A004BB459 /* LewPopupViewAnimationSpring.m */; };
+		F1B265621EC7D12A004BB459 /* PSPopListView.m in Sources */ = {isa = PBXBuildFile; fileRef = F1B2655A1EC7D12A004BB459 /* PSPopListView.m */; };
+		F1B265631EC7D12A004BB459 /* UIViewController+LewPopupViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F1B2655C1EC7D12A004BB459 /* UIViewController+LewPopupViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,21 +58,21 @@
 		F10B40761EC44B0500C09236 /* PSPopListViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PSPopListViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F10B407A1EC44B0500C09236 /* PSPopListViewUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PSPopListViewUITests.m; sourceTree = "<group>"; };
 		F10B407C1EC44B0500C09236 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F10B40A01EC4681A00C09236 /* PSPopListView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PSPopListView.h; sourceTree = "<group>"; };
-		F10B40A11EC4681A00C09236 /* PSPopListView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PSPopListView.m; sourceTree = "<group>"; };
-		F10B40A31EC4681A00C09236 /* LewPopupBackgroundView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LewPopupBackgroundView.h; sourceTree = "<group>"; };
-		F10B40A41EC4681A00C09236 /* LewPopupBackgroundView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LewPopupBackgroundView.m; sourceTree = "<group>"; };
-		F10B40A51EC4681A00C09236 /* LewPopupViewAnimationDrop.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LewPopupViewAnimationDrop.h; sourceTree = "<group>"; };
-		F10B40A61EC4681A00C09236 /* LewPopupViewAnimationDrop.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LewPopupViewAnimationDrop.m; sourceTree = "<group>"; };
-		F10B40A71EC4681A00C09236 /* LewPopupViewAnimationFade.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LewPopupViewAnimationFade.h; sourceTree = "<group>"; };
-		F10B40A81EC4681A00C09236 /* LewPopupViewAnimationFade.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LewPopupViewAnimationFade.m; sourceTree = "<group>"; };
-		F10B40A91EC4681A00C09236 /* LewPopupViewAnimationSlide.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LewPopupViewAnimationSlide.h; sourceTree = "<group>"; };
-		F10B40AA1EC4681A00C09236 /* LewPopupViewAnimationSlide.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LewPopupViewAnimationSlide.m; sourceTree = "<group>"; };
-		F10B40AB1EC4681A00C09236 /* LewPopupViewAnimationSpring.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LewPopupViewAnimationSpring.h; sourceTree = "<group>"; };
-		F10B40AC1EC4681A00C09236 /* LewPopupViewAnimationSpring.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LewPopupViewAnimationSpring.m; sourceTree = "<group>"; };
-		F10B40AD1EC4681A00C09236 /* LewPopupViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LewPopupViewController.h; sourceTree = "<group>"; };
-		F10B40AE1EC4681A00C09236 /* UIViewController+LewPopupViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+LewPopupViewController.h"; sourceTree = "<group>"; };
-		F10B40AF1EC4681A00C09236 /* UIViewController+LewPopupViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+LewPopupViewController.m"; sourceTree = "<group>"; };
+		F1B2654E1EC7D12A004BB459 /* LewPopupBackgroundView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LewPopupBackgroundView.h; sourceTree = "<group>"; };
+		F1B2654F1EC7D12A004BB459 /* LewPopupBackgroundView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LewPopupBackgroundView.m; sourceTree = "<group>"; };
+		F1B265501EC7D12A004BB459 /* LewPopupViewAnimationDrop.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LewPopupViewAnimationDrop.h; sourceTree = "<group>"; };
+		F1B265511EC7D12A004BB459 /* LewPopupViewAnimationDrop.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LewPopupViewAnimationDrop.m; sourceTree = "<group>"; };
+		F1B265521EC7D12A004BB459 /* LewPopupViewAnimationFade.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LewPopupViewAnimationFade.h; sourceTree = "<group>"; };
+		F1B265531EC7D12A004BB459 /* LewPopupViewAnimationFade.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LewPopupViewAnimationFade.m; sourceTree = "<group>"; };
+		F1B265541EC7D12A004BB459 /* LewPopupViewAnimationSlide.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LewPopupViewAnimationSlide.h; sourceTree = "<group>"; };
+		F1B265551EC7D12A004BB459 /* LewPopupViewAnimationSlide.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LewPopupViewAnimationSlide.m; sourceTree = "<group>"; };
+		F1B265561EC7D12A004BB459 /* LewPopupViewAnimationSpring.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LewPopupViewAnimationSpring.h; sourceTree = "<group>"; };
+		F1B265571EC7D12A004BB459 /* LewPopupViewAnimationSpring.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LewPopupViewAnimationSpring.m; sourceTree = "<group>"; };
+		F1B265581EC7D12A004BB459 /* LewPopupViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LewPopupViewController.h; sourceTree = "<group>"; };
+		F1B265591EC7D12A004BB459 /* PSPopListView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PSPopListView.h; sourceTree = "<group>"; };
+		F1B2655A1EC7D12A004BB459 /* PSPopListView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PSPopListView.m; sourceTree = "<group>"; };
+		F1B2655B1EC7D12A004BB459 /* UIViewController+LewPopupViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+LewPopupViewController.h"; sourceTree = "<group>"; };
+		F1B2655C1EC7D12A004BB459 /* UIViewController+LewPopupViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+LewPopupViewController.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -123,8 +123,7 @@
 		F10B40541EC44B0500C09236 /* PSPopListView */ = {
 			isa = PBXGroup;
 			children = (
-				F10B409F1EC4681A00C09236 /* PopListView */,
-				F10B40A21EC4681A00C09236 /* PopUpViewController */,
+				F1B2654D1EC7D12A004BB459 /* PSPopListView */,
 				F10B40581EC44B0500C09236 /* AppDelegate.h */,
 				F10B40591EC44B0500C09236 /* AppDelegate.m */,
 				F10B405B1EC44B0500C09236 /* ViewController.h */,
@@ -164,33 +163,26 @@
 			path = PSPopListViewUITests;
 			sourceTree = "<group>";
 		};
-		F10B409F1EC4681A00C09236 /* PopListView */ = {
+		F1B2654D1EC7D12A004BB459 /* PSPopListView */ = {
 			isa = PBXGroup;
 			children = (
-				F10B40A01EC4681A00C09236 /* PSPopListView.h */,
-				F10B40A11EC4681A00C09236 /* PSPopListView.m */,
+				F1B2654E1EC7D12A004BB459 /* LewPopupBackgroundView.h */,
+				F1B2654F1EC7D12A004BB459 /* LewPopupBackgroundView.m */,
+				F1B265501EC7D12A004BB459 /* LewPopupViewAnimationDrop.h */,
+				F1B265511EC7D12A004BB459 /* LewPopupViewAnimationDrop.m */,
+				F1B265521EC7D12A004BB459 /* LewPopupViewAnimationFade.h */,
+				F1B265531EC7D12A004BB459 /* LewPopupViewAnimationFade.m */,
+				F1B265541EC7D12A004BB459 /* LewPopupViewAnimationSlide.h */,
+				F1B265551EC7D12A004BB459 /* LewPopupViewAnimationSlide.m */,
+				F1B265561EC7D12A004BB459 /* LewPopupViewAnimationSpring.h */,
+				F1B265571EC7D12A004BB459 /* LewPopupViewAnimationSpring.m */,
+				F1B265581EC7D12A004BB459 /* LewPopupViewController.h */,
+				F1B265591EC7D12A004BB459 /* PSPopListView.h */,
+				F1B2655A1EC7D12A004BB459 /* PSPopListView.m */,
+				F1B2655B1EC7D12A004BB459 /* UIViewController+LewPopupViewController.h */,
+				F1B2655C1EC7D12A004BB459 /* UIViewController+LewPopupViewController.m */,
 			);
-			path = PopListView;
-			sourceTree = "<group>";
-		};
-		F10B40A21EC4681A00C09236 /* PopUpViewController */ = {
-			isa = PBXGroup;
-			children = (
-				F10B40A31EC4681A00C09236 /* LewPopupBackgroundView.h */,
-				F10B40A41EC4681A00C09236 /* LewPopupBackgroundView.m */,
-				F10B40A51EC4681A00C09236 /* LewPopupViewAnimationDrop.h */,
-				F10B40A61EC4681A00C09236 /* LewPopupViewAnimationDrop.m */,
-				F10B40A71EC4681A00C09236 /* LewPopupViewAnimationFade.h */,
-				F10B40A81EC4681A00C09236 /* LewPopupViewAnimationFade.m */,
-				F10B40A91EC4681A00C09236 /* LewPopupViewAnimationSlide.h */,
-				F10B40AA1EC4681A00C09236 /* LewPopupViewAnimationSlide.m */,
-				F10B40AB1EC4681A00C09236 /* LewPopupViewAnimationSpring.h */,
-				F10B40AC1EC4681A00C09236 /* LewPopupViewAnimationSpring.m */,
-				F10B40AD1EC4681A00C09236 /* LewPopupViewController.h */,
-				F10B40AE1EC4681A00C09236 /* UIViewController+LewPopupViewController.h */,
-				F10B40AF1EC4681A00C09236 /* UIViewController+LewPopupViewController.m */,
-			);
-			path = PopUpViewController;
+			path = PSPopListView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -329,16 +321,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F1B2655E1EC7D12A004BB459 /* LewPopupViewAnimationDrop.m in Sources */,
+				F1B265631EC7D12A004BB459 /* UIViewController+LewPopupViewController.m in Sources */,
+				F1B265601EC7D12A004BB459 /* LewPopupViewAnimationSlide.m in Sources */,
+				F1B265611EC7D12A004BB459 /* LewPopupViewAnimationSpring.m in Sources */,
+				F1B2655F1EC7D12A004BB459 /* LewPopupViewAnimationFade.m in Sources */,
+				F1B265621EC7D12A004BB459 /* PSPopListView.m in Sources */,
 				F10B405D1EC44B0500C09236 /* ViewController.m in Sources */,
-				F10B40B61EC4681A00C09236 /* UIViewController+LewPopupViewController.m in Sources */,
-				F10B40B11EC4681A00C09236 /* LewPopupBackgroundView.m in Sources */,
-				F10B40B21EC4681A00C09236 /* LewPopupViewAnimationDrop.m in Sources */,
-				F10B40B31EC4681A00C09236 /* LewPopupViewAnimationFade.m in Sources */,
 				F10B405A1EC44B0500C09236 /* AppDelegate.m in Sources */,
+				F1B2655D1EC7D12A004BB459 /* LewPopupBackgroundView.m in Sources */,
 				F10B40571EC44B0500C09236 /* main.m in Sources */,
-				F10B40B01EC4681A00C09236 /* PSPopListView.m in Sources */,
-				F10B40B51EC4681A00C09236 /* LewPopupViewAnimationSpring.m in Sources */,
-				F10B40B41EC4681A00C09236 /* LewPopupViewAnimationSlide.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
